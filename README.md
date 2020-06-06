@@ -3,11 +3,11 @@ A collection of interesting projects and connected people that work on them
 
 Project | Short Description | Technlogies | People
 ------------ | ------------- | ------------- | -------------
-[JDM](1) | A directory of direct links to delete your account from web services | Ruby - Jekyll | [@tupaschoal](2)
-[Meta](3)| Love template metaprogramming | C++ | 
-[OpenRCT2](4) | An open source re-implementation of RollerCoaster Tycoon 2 | C++ | [@tupaschoal](2), [@hdpoliveira](5), [@brenoguim](6)
-[SG20](10) | Education and Recommended Videos for Teaching C++ | C++ | 
-[Time To leave](7) | Log work hours and get notified when it's time to leave the office and start to live | Javascript - Electron | [@thamara](8), [@tupaschoal](2), [@araujoarthur0](9)
+[JDM][1] | A directory of direct links to delete your account from web services | Ruby - Jekyll | [@tupaschoal][2]
+[Meta][3]| Love template metaprogramming | C++ | 
+[OpenRCT2][4] | An open source re-implementation of RollerCoaster Tycoon 2 | C++ | [@tupaschoal][2], [@hdpoliveira][5], [@brenoguim][6]
+[SG20][10] | Education and Recommended Videos for Teaching C++ | C++ | 
+[Time To leave][7] | Log work hours and get notified when it's time to leave the office and start to live | Javascript - Electron | [@thamara][8], [@tupaschoal][2], [@araujoarthur0][9]
 
 [1]: https://github.com/jdm-contrib/jdm
 [2]: https://github.com/tupaschoal
